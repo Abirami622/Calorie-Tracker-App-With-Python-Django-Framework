@@ -3,7 +3,9 @@ I thought how about I make a calorie tracker web-app with python Django.
 The web-app will track calories intake and the calories consumption.
 # Requirements
 Python
+
 Django
+
 Django-filter
 # Project Setup
 I have done this project on windows operating system. If you are on Mac or Linux the
